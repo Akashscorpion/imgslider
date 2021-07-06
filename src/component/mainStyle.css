@@ -1,0 +1,19 @@
+
+*{
+	box-sizing: border-box
+}
+body
+{
+	font-family: Nunito, Roboto, Arial, sans-serif
+
+	height: 100vh
+}
+#app{
+	height: 100%
+	display: flex
+	justify-content: center}
+
+.container
+{	text-align: center
+	color: #fff
+	margin-top: 100px}

@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+div {
+  display: inline-block;
+}
+
+.cards {
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 50%;
+  border: 2px solid #008cba;
+}
+button {
+  height: 40px;
+  width: 100px;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid #008cba;
+  border-radius: 20px;
+  float: left;
+}
